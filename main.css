@@ -4,7 +4,7 @@ html, body {
 }
 
 body {
-	padding: 20px;
+	padding: 40px;
     background-color: #444444;
 }
 
@@ -14,7 +14,7 @@ body {
 	top: 30px;
 	left: 422px;
 	margin: 30px;
-	max-width: 750px;
+	max-width: 730px;
 	min-width: 400px;
 }
 
